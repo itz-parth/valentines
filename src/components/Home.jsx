@@ -34,7 +34,7 @@ const LoveQuestion = () => {
   };
 
   return (
-    <div className="w-screen h-screen flex flex-col items-center justify-center bg-[url('../../public/valentine.jpg')] bg-cover overflow-hidden relative">
+    <div className="w-screen h-screen flex flex-col items-center justify-center bg-[url('../../valentine.jpg')] bg-cover overflow-hidden relative">
       <div className="relative w-auto h-auto">
         <h1
             className="text-7xl text-center text-white font-sacramento relative z-10"
